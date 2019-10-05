@@ -3,5 +3,5 @@
 
 Ejemplo de como usar mercury con mod_harbour HFW
 
-Review .htaccess file
+Review paths .htaccess file
 
